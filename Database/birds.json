@@ -1,0 +1,47 @@
+[
+    {
+      "_id": 1,
+      "name": "Bald Eagle",
+      "species": "Haliaeetus leucocephalus",
+      "family": "Accipitridae",
+      "habitat": "Forests, Coasts, and Lakes",
+      "place_of_found": "North America",
+      "diet": "Carnivore",
+      "description": "The bald eagle is a powerful bird of prey known for its white head and tail feathers.",
+      "weight_kg": 6.3,
+      "image": "https://fakeimg.pl/500x500/cc7701",
+      "createdAt": "2024-06-09T13:39:26.437Z",
+      "updatedAt": "2024-06-09T13:39:26.437Z",
+      "__v": 0
+    },
+    {
+      "_id": 2,
+      "name": "Peacock",
+      "species": "Pavo cristatus",
+      "family": "Phasianidae",
+      "habitat": "Forests and Grasslands",
+      "place_of_found": "India",
+      "diet": "Omnivore",
+      "description": "The peacock is a large and colorful bird known for its extravagant tail feathers.",
+      "weight_kg": 4.5,
+      "image": "https://fakeimg.pl/500x500/cc7702",
+      "createdAt": "2024-06-09T13:39:52.383Z",
+      "updatedAt": "2024-06-09T13:39:52.383Z",
+      "__v": 0
+    },
+    {
+      "_id": 3,
+      "name": "Hornbill",
+      "species": "[updated field]",
+      "family": "Bucerotidae",
+      "habitat": "Forests and Woodlands",
+      "place_of_found": "Africa, Asia",
+      "diet": "Omnivore",
+      "description": "Hornbills are medium-sized birds known for their large, curved bills.",
+      "weight_kg": 2.7,
+      "image": "https://fakeimg.pl/500x500/cc7703",
+      "createdAt": "2024-06-09T13:40:18.943Z",
+      "updatedAt": "2024-06-09T13:50:04.296Z",
+      "__v": 0
+    }
+  ]

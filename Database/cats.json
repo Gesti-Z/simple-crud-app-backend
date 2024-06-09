@@ -1,0 +1,69 @@
+[
+    {
+      "_id": 1,
+      "name": "Persian",
+      "origin": "Iran",
+      "temperament": "Sweet, Gentle, Quiet",
+      "colors": [
+        "White",
+        "Black",
+        "Blue",
+        "Cream"
+      ],
+      "description": "The Persian cat is a long-haired breed known for its luxurious coat and sweet personality. They are calm and affectionate cats that enjoy a relaxed indoor lifestyle.",
+      "image": "https://fakeimg.pl/500x500/cc5500",
+      "createdAt": "2024-06-09T13:41:11.410Z",
+      "updatedAt": "2024-06-09T13:41:11.410Z",
+      "__v": 0
+    },
+    {
+      "_id": 2,
+      "name": "Siamese",
+      "origin": "Thailand",
+      "temperament": "Social, Vocal, Intelligent",
+      "colors": [
+        "Seal Point",
+        "Blue Point",
+        "Chocolate Point",
+        "Lilac Point"
+      ],
+      "description": "The Siamese cat is a vocal and affectionate breed known for its striking blue almond-shaped eyes. They are highly social and enjoy interactive play with their human companions.",
+      "image": "https://fakeimg.pl/500x500/cc5511",
+      "createdAt": "2024-06-09T13:41:35.913Z",
+      "updatedAt": "2024-06-09T13:41:35.913Z",
+      "__v": 0
+    },
+    {
+      "_id": 3,
+      "name": "Maine Coon",
+      "origin": "United States",
+      "temperament": "Friendly, Playful, Gentle",
+      "colors": [
+        "Brown Tabby",
+        "Black",
+        "Red",
+        "Silver Tabby"
+      ],
+      "description": "The Maine Coon is a large and friendly breed known for its tufted ears and bushy tail. They are affectionate and sociable cats that get along well with children and other pets.",
+      "image": "https://fakeimg.pl/500x500/cc5522",
+      "createdAt": "2024-06-09T13:42:04.117Z",
+      "updatedAt": "2024-06-09T13:42:04.117Z",
+      "__v": 0
+    },
+    {
+      "_id": 4,
+      "name": "Bengal",
+      "origin": "United States",
+      "temperament": "Active, Energetic, Intelligent",
+      "colors": [
+        "Brown Spotted",
+        "Snow Spotted",
+        "Marble"
+      ],
+      "description": "The Bengal cat is a medium to large-sized breed known for its wild appearance and energetic nature. They are highly intelligent and require mental and physical stimulation.",
+      "image": "https://fakeimg.pl/500x500/cc5533",
+      "createdAt": "2024-06-09T13:42:21.776Z",
+      "updatedAt": "2024-06-09T13:42:21.776Z",
+      "__v": 0
+    }
+  ]

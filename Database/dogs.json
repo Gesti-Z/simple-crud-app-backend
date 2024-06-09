@@ -1,0 +1,39 @@
+[
+    {
+      "_id": 1,
+      "name": "Golden Retriever",
+      "breed_group": "Sporting",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "temperament": "Intelligent, Friendly, Devoted",
+      "colors": [
+        "Golden",
+        "Cream"
+      ],
+      "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+      "image": "https://fakeimg.pl/500x500/cc6633",
+      "createdAt": "2024-06-09T13:42:56.927Z",
+      "updatedAt": "2024-06-09T13:42:56.927Z",
+      "__v": 0
+    },
+    {
+      "_id": 2,
+      "name": "Labrador Retriever",
+      "breed_group": "Sporting",
+      "size": "Large",
+      "lifespan": "10-14 years",
+      "origin": "Canada",
+      "temperament": "Outgoing, Even-tempered, Gentle",
+      "colors": [
+        "Yellow",
+        "Black",
+        "Chocolate"
+      ],
+      "description": "The Labrador Retriever is one of the most popular dog breeds in the world. They are known for their friendly and outgoing nature, as well as their intelligence and trainability. Labs make excellent family pets and are often used as service dogs and therapy dogs.",
+      "image": "https://fakeimg.pl/500x500/cc6634",
+      "createdAt": "2024-06-09T13:43:15.494Z",
+      "updatedAt": "2024-06-09T13:43:15.494Z",
+      "__v": 0
+    }
+  ]

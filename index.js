@@ -1,7 +1,8 @@
 const express = require('express')
 const mongoose = require('mongoose');
-const Product = require('./models/product.model');
-const productRoute = require('./routes/product.route');
+const dogRoute = require('./routes/dog.route');
+const catRoute = require('./routes/cat.route');
+const birdRoute = require('./routes/bird.route');
 const app = express()
 
 // middleware
@@ -13,7 +14,9 @@ app.get('/', (req, res) => {
 });
 
 // routes
-app.use('/api/products', productRoute);
+app.use('/api/dogs', dogRoute);
+app.use('/api/cats', catRoute);
+app.use('/api/birds', birdRoute);
 
 
 
